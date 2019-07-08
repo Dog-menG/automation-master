@@ -6,6 +6,7 @@ import os, time
 
 
 class LDR(object):
+    # jun gou
     """This class is used to measure LDR of AP711T"""
     def __init__(self, power_gpib, fun_gen_gpib, i2c_address):
         self.log = log(self.__class__.__name__)
