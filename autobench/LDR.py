@@ -4,7 +4,6 @@ from autobench import log
 import pandas as pd
 import os, time
 
-
 class LDR(object):
     # jun gou
     """This class is used to measure LDR of AP711T"""
