@@ -1,0 +1,26 @@
+2019-07-08 14:17:10,371 [ERROR] [E3646A] [GPIB:18] __E3634A__:GPIB Failed to Open
+Traceback (most recent call last):
+  File "C:\Users\jgou\PycharmProjects\automation-master\autobench\inst\gpib.py", line 16, in __init__
+    self.inst = pyvisa.ResourceManager().open_resource("GPIB0::" + str(gpib_addr) + '::INSTR')
+  File "C:\Users\jgou\AppData\Local\Continuum\Anaconda2\lib\site-packages\pyvisa\highlevel.py", line 1623, in open_resource
+    info = self.resource_info(resource_name, extended=True)
+  File "C:\Users\jgou\AppData\Local\Continuum\Anaconda2\lib\site-packages\pyvisa\highlevel.py", line 1583, in resource_info
+    ret, err = self.visalib.parse_resource_extended(self.session, resource_name)
+  File "C:\Users\jgou\AppData\Local\Continuum\Anaconda2\lib\site-packages\pyvisa\ctwrapper\functions.py", line 1381, in parse_resource_extended
+    alias_if_exists)
+  File "C:\Users\jgou\AppData\Local\Continuum\Anaconda2\lib\site-packages\pyvisa\ctwrapper\highlevel.py", line 188, in _return_handler
+    raise errors.VisaIOError(ret_value)
+VisaIOError: VI_ERROR_LIBRARY_NFOUND (-1073807202): A code library required by VISA could not be located or loaded.
+2019-07-08 14:21:04,704 [ERROR] [E3646A] [GPIB:18] __E3634A__:GPIB Failed to Open
+Traceback (most recent call last):
+  File "C:\Users\jgou\PycharmProjects\automation-master\autobench\inst\gpib.py", line 16, in __init__
+    self.inst = pyvisa.ResourceManager().open_resource("GPIB0::" + str(gpib_addr) + '::INSTR')
+  File "C:\Users\jgou\AppData\Local\Continuum\Anaconda2\lib\site-packages\pyvisa\highlevel.py", line 1623, in open_resource
+    info = self.resource_info(resource_name, extended=True)
+  File "C:\Users\jgou\AppData\Local\Continuum\Anaconda2\lib\site-packages\pyvisa\highlevel.py", line 1583, in resource_info
+    ret, err = self.visalib.parse_resource_extended(self.session, resource_name)
+  File "C:\Users\jgou\AppData\Local\Continuum\Anaconda2\lib\site-packages\pyvisa\ctwrapper\functions.py", line 1381, in parse_resource_extended
+    alias_if_exists)
+  File "C:\Users\jgou\AppData\Local\Continuum\Anaconda2\lib\site-packages\pyvisa\ctwrapper\highlevel.py", line 188, in _return_handler
+    raise errors.VisaIOError(ret_value)
+VisaIOError: VI_ERROR_LIBRARY_NFOUND (-1073807202): A code library required by VISA could not be located or loaded.

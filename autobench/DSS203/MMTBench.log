@@ -1,0 +1,252 @@
+2018-09-06 14:00:33,283 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-06 14:00:33,283 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-06 14:00:58,286 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-06 14:00:58,286 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-06 14:04:37,717 [ERROR] [AAReadWrite] [I2C]: Unable to open Aardvark device on port 0
+2018-09-06 14:04:37,717 [ERROR] [AAReadWrite] [I2C]: Error code = -7
+2018-09-06 14:04:37,717 [ERROR] [AAReadWrite] [I2C]: Exiting now
+2018-09-06 14:04:52,726 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-06 14:04:52,726 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-06 16:56:31,575 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-06 16:56:31,576 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-06 16:57:42,918 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-06 16:57:42,920 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-06 16:59:23,937 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-06 16:59:23,938 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-06 17:47:45,450 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-06 17:47:45,450 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-06 17:47:57,736 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-06 17:47:57,737 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-06 17:49:19,618 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-06 17:49:19,618 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-06 17:49:41,736 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-06 17:49:41,736 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-06 17:51:36,079 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-06 17:51:36,082 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-06 17:53:48,348 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-06 17:53:48,348 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-06 18:06:23,374 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-06 18:06:23,374 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-06 18:17:21,134 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-06 18:17:21,134 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-06 18:19:34,384 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-06 18:19:34,384 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 09:46:48,171 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 09:46:48,171 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 09:47:17,437 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 09:47:17,437 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 09:51:11,529 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 09:51:11,529 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 09:51:51,013 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 09:51:51,013 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 09:53:20,036 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 09:53:20,036 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 10:04:59,447 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 10:04:59,447 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 10:11:58,683 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 10:11:58,683 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 10:13:46,005 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 10:13:46,005 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 10:14:37,474 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 10:14:37,474 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 10:19:56,065 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 10:19:56,065 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 10:23:51,503 [ERROR] [AAReadWrite] [I2C]: Unable to open Aardvark device on port 0
+2018-09-07 10:23:51,503 [ERROR] [AAReadWrite] [I2C]: Error code = -7
+2018-09-07 10:23:51,503 [ERROR] [AAReadWrite] [I2C]: Exiting now
+2018-09-07 10:23:59,453 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 10:23:59,453 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 10:25:45,963 [ERROR] [AAReadWrite] [I2C]: Unable to open Aardvark device on port 0
+2018-09-07 10:25:45,963 [ERROR] [AAReadWrite] [I2C]: Error code = -7
+2018-09-07 10:25:45,963 [ERROR] [AAReadWrite] [I2C]: Exiting now
+2018-09-07 10:25:53,596 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 10:25:53,596 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 10:28:13,760 [ERROR] [AAReadWrite] [I2C]: Unable to open Aardvark device on port 0
+2018-09-07 10:28:13,760 [ERROR] [AAReadWrite] [I2C]: Error code = -7
+2018-09-07 10:28:13,760 [ERROR] [AAReadWrite] [I2C]: Exiting now
+2018-09-07 10:28:19,371 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 10:28:19,371 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 10:29:37,092 [ERROR] [AAReadWrite] [I2C]: Unable to open Aardvark device on port 0
+2018-09-07 10:29:37,092 [ERROR] [AAReadWrite] [I2C]: Error code = -7
+2018-09-07 10:29:37,092 [ERROR] [AAReadWrite] [I2C]: Exiting now
+2018-09-07 10:29:43,914 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 10:29:43,914 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 11:54:23,638 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 11:54:23,638 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 13:34:14,923 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 13:34:14,924 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 13:49:47,960 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 13:49:47,960 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 13:50:05,525 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 13:50:05,526 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 13:51:01,940 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 13:51:01,940 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 13:53:26,724 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 13:53:26,724 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 13:56:10,997 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 13:56:10,997 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:10:37,542 [ERROR] [AAReadWrite] [I2C]: Unable to open Aardvark device on port 0
+2018-09-07 14:10:37,542 [ERROR] [AAReadWrite] [I2C]: Error code = -7
+2018-09-07 14:10:37,542 [ERROR] [AAReadWrite] [I2C]: Exiting now
+2018-09-07 14:10:51,724 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:10:51,726 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:12:11,117 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:12:11,117 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:13:56,322 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:13:56,322 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:16:38,022 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:16:38,023 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:16:59,595 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:16:59,595 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:17:48,200 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:17:48,200 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:21:10,394 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:21:10,395 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:21:26,477 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:21:26,479 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:32:31,184 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:32:31,184 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:34:37,483 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:34:37,484 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:35:03,316 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:35:03,316 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:36:28,332 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:36:28,332 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:36:52,762 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:36:52,762 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:38:02,983 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:38:02,983 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:38:27,723 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:38:27,723 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:44:06,198 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:44:06,200 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:45:03,786 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:45:03,786 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:47:04,608 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:47:04,609 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:48:02,706 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:48:02,706 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:49:45,878 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:49:45,878 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:50:05,707 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:50:05,709 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:53:58,969 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:53:58,969 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:55:10,908 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:55:10,910 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:55:31,226 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:55:31,227 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 14:59:51,180 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 14:59:51,180 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:02:59,305 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:02:59,306 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:04:25,674 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:04:25,676 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:04:57,392 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:04:57,394 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:05:50,651 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:05:50,651 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:06:32,151 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:06:32,153 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:09:13,211 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:09:13,211 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:14:10,131 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:14:10,131 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:27:51,486 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:27:51,486 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:36:44,661 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:36:44,661 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:48:31,914 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:48:31,914 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:49:30,542 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:49:30,542 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:50:14,043 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:50:14,043 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:51:08,023 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:51:08,023 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:51:45,365 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:51:45,365 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:53:02,556 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:53:02,556 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:53:15,611 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:53:15,611 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:54:17,852 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:54:17,852 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 15:58:33,000 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 15:58:33,000 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:01:58,924 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:01:58,924 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:02:20,348 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:02:20,348 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:03:52,555 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:03:52,555 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:10:32,313 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:10:32,313 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:11:19,107 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:11:19,107 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:12:34,079 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:12:34,079 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:14:42,421 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:14:42,421 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:15:11,220 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:15:11,220 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:15:53,443 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:15:53,443 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:17:28,325 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:17:28,325 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:20:38,710 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:20:38,710 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:21:19,602 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:21:19,602 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:28:27,903 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:28:27,903 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:36:15,954 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:36:15,954 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:47:55,082 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:47:55,082 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:48:27,923 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:48:27,923 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 16:57:53,789 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 16:57:53,790 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 17:10:11,341 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 17:10:11,342 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 17:31:27,411 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 17:31:27,413 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 17:42:37,236 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 17:42:37,237 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 17:48:17,943 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 17:48:17,944 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 17:53:22,920 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 17:53:22,921 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 17:57:53,378 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 17:57:53,381 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 18:02:13,756 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 18:02:13,757 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 18:06:31,417 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 18:06:31,420 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 18:12:01,249 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 18:12:01,250 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 18:21:49,443 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 18:21:49,444 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 18:21:53,548 [ERROR] [AAReadWrite] [I2C]: no bytes read
+2018-09-07 18:21:53,549 [ERROR] [AAReadWrite] please check device I2C address settings
+2018-09-07 18:23:23,653 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 18:23:23,654 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 18:28:56,762 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 18:28:56,762 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-07 18:30:58,667 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-07 18:30:58,668 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-10 15:06:13,799 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-10 15:06:13,799 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-10 15:11:14,016 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-10 15:11:14,016 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-10 15:19:01,989 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-10 15:19:01,989 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-10 15:31:39,598 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-10 15:31:39,598 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-10 15:38:12,782 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-10 15:38:12,783 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-10 15:51:35,957 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-10 15:51:35,957 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
+2018-09-10 15:56:30,190 [INFO] [AAReadWrite] [I2C]: Bitrate set to 400 kHz
+2018-09-10 15:56:30,190 [INFO] [AAReadWrite] [I2C]: Bus lock timeout set to 150 ms
