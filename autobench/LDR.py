@@ -1,5 +1,5 @@
 from autobench.inst import power, func_gen, scope
-from i2c.aa_i2c import AAReadWrite
+from autobench.i2c.aa_i2c import AAReadWrite
 from autobench import log
 import pandas as pd
 import os, time
@@ -63,7 +63,6 @@ class LDR(object):
         vbase = self.scope.get_result()[4]
         self.scope_wait()
         offset = (float(vtop) + float(vbase)) / 2
-        print vertical, offset
         self.scope.source_range_setup(source, vertical, offset)
 
     def scope_threshold_abosulte(self, source, thre_high, thre_mid, thre_low):
