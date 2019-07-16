@@ -3,7 +3,7 @@ from autobench.i2c.aa_i2c import AAReadWrite
 from autobench import log
 import pandas as pd
 import os, time
-"test"
+"gege"
 
 
 class LDR(object):
