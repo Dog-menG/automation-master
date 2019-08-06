@@ -629,5 +629,5 @@
 # a = Solution()
 # print (a.judgeCircle('RLUD'))
 
-a = '123415'
-print (a.rfind('7'))
+a = '1234165'
+print (a.rfind('a'))
