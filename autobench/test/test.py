@@ -629,5 +629,6 @@
 # a = Solution()
 # print (a.judgeCircle('RLUD'))
 
-a = '123415'
-print (a.rfind('7'))
+import os
+os.chdir('C:/Users/dogod/PycharmProjects/automation/autobench/i2c')
+print os.getcwd()

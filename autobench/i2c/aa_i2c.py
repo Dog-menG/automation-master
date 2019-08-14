@@ -7,8 +7,6 @@ try:
     import autobench.i2c.aardvark as api
 except ImportError, ex1:
     import imp
-    # import platform
-    # ext = platform.system() in ('Windows', 'Microsoft') and '.dll' or '.so'
     if struct.calcsize("P") * 8 == 64:
         ext = '_x64.dll'
     else:
@@ -19,7 +17,8 @@ except ImportError, ex1:
             os.chdir('..')
             api = imp.load_dynamic('aardvark', '.\\i2c\\aardvark' + ext)
         else:
-            api = imp.load_dynamic('aardvark', '.\\i2c\\aardvark' + ext)
+            os.chdir('C:/Users/dogod/PycharmProjects/automation/autobench/i2c')
+            api = imp.load_dynamic('aardvark', 'aardvark' + ext)
     except ImportError, ex2:
         import_err_msg = 'Error importing aardvark%s\n' % ext
         import_err_msg += 'Architecture of aardvark%s may be wrong\n' % ext
